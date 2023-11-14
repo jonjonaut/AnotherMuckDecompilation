@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: d85ad4845d317dd46b5615c71aab556e
+timeCreated: 1624724003
+licenseType: Free
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wood_Oak
+  externalObjects: {}
+  usedFileIDs: []
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wood_Oak
+      rect:
+        serializedVersion: 2
+        x: 3.042908
+        y: 8.07612
+        width: 244.881
+        height: 238.881
+      alignment: 9
+      pivot: {x: 0.5102769, y: 0.5020236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.516609, y: -76.51661}
+        - {x: -122.4834, y: 54.48339}
+        - {x: -122.4834, y: 83.48339}
+        - {x: -97.48339, y: 119.4834}
+        - {x: -67.48339, y: 119.4834}
+        - {x: 122.5166, y: -61.51661}
+        - {x: 122.5166, y: -81.51661}
+        - {x: 94.51661, y: -119.5166}
+        - {x: 71.51661, y: -119.5166}
+      physicsShape:
+      - - {x: 106.5166, y: -49.51661}
+        - {x: 47.51661, y: 8.483391}
+        - {x: 23.51661, y: 30.48339}
+        - {x: -45.48339, y: 91.48339}
+        - {x: -73.48339, y: 118.4834}
+        - {x: -77.48338, y: 118.4834}
+        - {x: -85.48339, y: 116.4834}
+        - {x: -108.4834, y: 91.48339}
+        - {x: -116.4834, y: 83.48339}
+        - {x: -121.4834, y: 72.48339}
+        - {x: -121.4834, y: 70.48339}
+        - {x: -77.48338, y: 23.48339}
+        - {x: 22.51661, y: -75.51661}
+        - {x: 71.51661, y: -118.5166}
+        - {x: 82.5166, y: -118.5166}
+        - {x: 87.51661, y: -113.5166}
+        - {x: 121.5166, y: -78.51661}
+        - {x: 121.5166, y: -66.5166}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbef721170c4e4697968580dcd78606
+      internalID: 21300000
+      vertices: []
+      indices:
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices:
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:
